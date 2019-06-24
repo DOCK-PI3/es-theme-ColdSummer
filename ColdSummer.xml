@@ -357,15 +357,15 @@ INFO: Theme base para crear desde cero de una forma facil!
 			<backgroundColor>ffffff90</backgroundColor>
 		</gridtile>
 
-		<text name="md_title">
+<!-- 		<text name="md_title">
 			<color>ffffff</color>
 			<pos>0.02 0.179</pos>
 			<fontPath>./assets/SF_Hollywood_Hills.ttf</fontPath>
 			<fontSize>0.05</fontSize>
-<!-- 			<zIndex>99</zIndex> -->
-		</text>
+			<zIndex>99</zIndex>
+		</text> -->
 				
-		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+<!-- 		<text name="md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>ffffff</color>
 			<forceUppercase>0</forceUppercase>
 			<fontPath>./assets/font.ttf</fontPath>
@@ -419,9 +419,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 		<text name="md_players">
 			<size>0.01 0.01</size>
 			<pos>1 1</pos>
-		</text>
-		
-		
+		</text> -->
 		
 	</view>
 	</theme>
