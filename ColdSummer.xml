@@ -334,7 +334,7 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</image> -->
 		
 		<image name="logo">
-			<pos>0.5 0.039</pos>
+			<pos>0.4 0.039</pos>
 			<maxSize>0.22 0.1</maxSize>
 			<size>0.2 0.09</size>
 			<origin>0 0</origin>
